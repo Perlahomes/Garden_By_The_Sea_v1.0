@@ -35,8 +35,8 @@ h2 {
     margin-bottom: 20px;
 }
 .instructions img {
-    width: auto;
-    height: 250px;
+    width: 300px;
+    height: 350px;
     margin-top: 20px;
 }
 .instructions h3 {
@@ -64,8 +64,8 @@ footer {
     width: 100%;
 }
 .key-lock img {
-    width: auto;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     margin-top: 22px;
 }
 .Numbers{
@@ -86,4 +86,8 @@ cursor: pointer; /* Indicate that the image is clickable */
 transform: scale(1.5); /* Enlarge image to 1.5x its size */
 z-index: 1000;
 position: relative;
+}
+#wifi{
+    width: 150px;
+    height: 150px;
 }
